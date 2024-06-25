@@ -162,7 +162,7 @@ footer {
   }
 
   .light {
-    --bg-url: url (--bg-url: url(./assests/bg-desktop-light.jpg));
+    --bg-url: url(./assests/bg-desktop-light.jpg);
   }
 }
 
