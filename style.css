@@ -156,7 +156,7 @@ footer {
 }
 
 /*media queries*/
-@media (min-width: 700px;) {
+@media (min-width: 700px) {
   :root {
     --bg-url: url(./assests/bg-desktop.jpg);
   }
@@ -165,6 +165,9 @@ footer {
     --bg-url: url(./assests/bg-desktop-light.jpg);
   }
 }
+
+
+
 
 /*animation*/
 @keyframes slide-in {
